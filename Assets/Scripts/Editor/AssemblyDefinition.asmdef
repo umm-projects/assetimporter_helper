@@ -1,0 +1,12 @@
+{
+    "name": "umm@assetimporter_helper-Editor",
+    "references": [
+        "umm@assetimporter_helper"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

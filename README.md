@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install -D github:umm-projects/assetimporter_helper.git
+$ npm install -D github:umm/assetimporter_helper.git
 ```
 
 # Usage
